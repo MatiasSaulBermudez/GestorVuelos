@@ -1,5 +1,3 @@
-# Matias Saul Bermudez 40420649
-
 def agregar_vuelo(vuelos, numero_vuelo, destino, hora_salida):
     vuelos[numero_vuelo] = {
         "destino": destino,
